@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="GadgetManía - Las mejores reviews de gadgets para estudiantes. Auriculares, smartwatches, cámaras y más.">
+<title>GadgetManía - Reviews de Gadgets para Estudiantes</title>
+<style>
+  body {font-family: Arial, sans-serif; margin:0; padding:0; background:#f4f4f4;}
+  header {background:#1e90ff; color:white; padding:20px 0; text-align:center;}
+  nav {background:#333; display:flex; justify-content:center;}
+  nav a {color:white; padding:14px 20px; text-decoration:none; display:block;}
+  nav a:hover {background:#575757;}
+  .container {width:90%; max-width:1000px; margin:20px auto;}
+  h1,h2,h3 {color:#333;}
+  .article {background:white; padding:20px; margin-bottom:20px; border-radius:5px;}
+  .article img {max-width:100%; height:auto;}
+  footer {background:#333; color:white; text-align:center; padding:10px 0; margin-top:20px;}
+  table {width:100%; border-collapse:collapse; margin-top:10px;}
+  table, th, td {border:1px solid #ddd;}
+  th, td {padding:10px; text-align:left;}
+  th {background:#1e90ff; color:white;}
+  .affiliate-btn {display:inline-block; padding:10px 15px; background:#1e90ff; color:white; text-decoration:none; border-radius:3px; margin-top:10px;}
+  .affiliate-btn:hover {background:#005fa3;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>GadgetManía</h1>
+  <p>Las mejores reviews de gadgets para estudiantes</p>
+</header>
+
+<nav>
+  <a href="#">Inicio</a>
+  <a href="#">Reviews</a>
+  <a href="#">Comparativas</a>
+  <a href="#">Contacto</a>
+</nav>
+
+<div class="container">
+
+  <!-- Artículo 1 -->
+  <div class="article">
+    <h2>Mejores auriculares bluetooth económicos 2025</h2>
+    <img src="https://via.placeholder.com/800x400?text=Auriculares+Bluetooth" alt="Auriculares Bluetooth">
+    <p>Descubre los 3 auriculares bluetooth más baratos y con mejor calidad de sonido para estudiantes. Comparativa de diseño, batería y comodidad.</p>
+    <table>
+      <tr>
+        <th>Producto</th>
+        <th>Precio</th>
+        <th>Pros</th>
+        <th>Contras</th>
+      </tr>
+      <tr>
+        <td>Auricular A</td>
+        <td>$25</td>
+        <td>Buen sonido, cómodo</td>
+        <td>Batería media</td>
+      </tr>
+      <tr>
+        <td>Auricular B</td>
+        <td>$30</td>
+        <td>Excelente batería</td>
+        <td>Un poco pesado</td>
+      </tr>
+      <tr>
+        <td>Auricular C</td>
+        <td>$20</td>
+        <td>Precio barato</td>
+        <td>Sonido regular</td>
+      </tr>
+    </table>
+    <a href="#" class="affiliate-btn">Comprar con mi enlace</a>
+  </div>
+
+  <!-- Artículo 2 -->
+  <div class="article">
+    <h2>Top 5 smartwatches para estudiantes</h2>
+    <img src="https://via.placeholder.com/800x400?text=Smartwatches" alt="Smartwatches">
+    <p>Los mejores smartwatches para estudiar y organizar tu tiempo. Comparación de funciones, batería y precio.</p>
+    <table>
+      <tr>
+        <th>Producto</th>
+        <th>Precio</th>
+        <th>Pros</th>
+        <th>Contras</th>
+      </tr>
+      <tr>
+        <td>Smartwatch A</td>
+        <td>$50</td>
+        <td>Buen diseño, muchas funciones</td>
+        <td>Pantalla pequeña</td>
+      </tr>
+      <tr>
+        <td>Smartwatch B</td>
+        <td>$60</td>
+        <td>Gran batería</td>
+        <td>Poco elegante</td>
+      </tr>
+      <tr>
+        <td>Smartwatch C</td>
+        <td>$55</td>
+        <td>Funciones completas</td>
+        <td>App complicada</td>
+      </tr>
+    </table>
+    <a href="#" class="affiliate-btn">Comprar con mi enlace</a>
+  </div>
+
+  <!-- Artículo 3 -->
+  <div class="article">
+    <h2>Cámaras compactas baratas para principiantes</h2>
+    <img src="https://via.placeholder.com/800x400?text=Cámaras+Compactas" alt="Cámaras Compactas">
+    <p>Revisión de 3 cámaras compactas económicas. Perfectas para estudiantes que quieren empezar en fotografía sin gastar mucho.</p>
+    <a href="#" class="affiliate-btn">Comprar con mi enlace</a>
+  </div>
+
+  <!-- Artículo 4 -->
+  <div class="article">
+    <h2>Los mejores powerbanks para llevar a clase</h2>
+    <img src="https://via.placeholder.com/800x400?text=Powerbanks" alt="Powerbanks">
+    <p>Top 3 powerbanks para mantener tus dispositivos cargados durante el día. Comparativa de capacidad, diseño y precio.</p>
+    <a href="#" class="affiliate-btn">Comprar con mi enlace</a>
+  </div>
+
+  <!-- Artículo 5 -->
+  <div class="article">
+    <h2>Top 3 teclados mecánicos baratos para estudiar y jugar</h2>
+    <img src="https://via.placeholder.com/800x400?text=Teclados+Mecánicos" alt="Teclados Mecánicos">
+    <p>Comparativa de teclados mecánicos económicos. Ideal para estudiantes y gamers con presupuesto limitado.</p>
+    <a href="#" class="affiliate-btn">Comprar con mi enlace</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>&copy; 2025 GadgetManía. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
